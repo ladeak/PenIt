@@ -14,6 +14,18 @@ It allows you to **zoom into the screen** and **draw annotations** using either 
 
 ---
 
+## 🚀 Getting Started
+
+Requires Windows x64.
+
+1. Download the executable from the release page.
+    - With .NET Runtime download the executable (`.exe`) from the release page.
+    - Without .NET Runtime download the (`.zip`) from the release page and unzip it.
+3. Run the application — no installation required.
+4. Use the shortcuts above to zoom and annotate.
+
+---
+
 ## 🎮 Usage
 
 - **CTRL + W** → Zoom into the current cursor position  
@@ -30,13 +42,6 @@ It allows you to **zoom into the screen** and **draw annotations** using either 
 - Built with **Windows Presentation Foundation (WPF)**
 - Designed for Windows 11 with pen and stylus support
 - Inspired by Sysinternals **ZoomIt**, but simplified for custom workflows
-
----
-
-## 🚀 Getting Started
-1. Download the executable (`.exe`) from the release page.
-2. Run the application — no installation required.
-3. Use the shortcuts above to zoom and annotate.
 
 ---
 
