@@ -6,11 +6,13 @@ It allows you to **zoom into the screen** and **draw annotations** using either 
 ---
 
 ## ✨ Features
+
 - Zoom into any part of the screen
 - Navigate while zoomed using mouse or pen
 - Annotate with freehand drawing
 - Highlight with a yellow marker using the pen’s side button
 - Supports both keyboard and pen shortcuts
+- Always focusos on primary monitor - great for touchpad devices
 
 ---
 
@@ -30,7 +32,8 @@ Requires Windows x64.
 
 - **CTRL + W** → Zoom into the current cursor position  
 - **CTRL + Pen top button** → Zoom into the current cursor position  
-- **ESC** → Exit zoom mode  
+- **ESC** → Exit zoom mode
+- **Pen top button** → Exit zoom mode
 - **While zoomed:**
   - Move around by moving the mouse or pen across the screen  
   - **Left mouse click / Pen tap** → Draw on the screen  
@@ -39,18 +42,21 @@ Requires Windows x64.
 ---
 
 ## 🛠️ Technology
+
 - Built with **Windows Presentation Foundation (WPF)**
 - Designed for Windows 11 with pen and stylus support
-- Inspired by Sysinternals **ZoomIt**, but simplified for custom workflows
+- Inspired by Sysinternals ZoomIt, but simplified for custom workflows
 
 ---
 
 ## 📌 Notes
+
 - This tool is intended for presentations, demos, and quick on‑screen annotations.
 - It does not permanently modify your screen content — drawings disappear when you exit zoom mode.
 
 ---
 
 ## 📄 License
+
 This project is distributed as a private binary.  
 Source code is not publicly available.
