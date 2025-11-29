@@ -18,7 +18,7 @@ It allows you to **zoom into the screen** and **draw annotations** using either 
 
 ## 🚀 Getting Started
 
-Requires Windows x64.
+Minimum requirement Windows 10.0.26100.0 on x64 or arm64.
 
 1. Download the executable from the release page.
     - With .NET Runtime download the executable (`.exe`) from the release page.
