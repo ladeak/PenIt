@@ -5,7 +5,7 @@ It allows you to **zoom into the screen** and **draw annotations** using either 
 
 ---
 
-## ✨ Features
+## Features
 
 - Zoom into any part of the screen
 - Navigate while zoomed using mouse or pen
@@ -16,7 +16,7 @@ It allows you to **zoom into the screen** and **draw annotations** using either 
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Minimum requirement Windows 10.0.26100.0 on x64 or arm64.
 
@@ -28,7 +28,7 @@ Minimum requirement Windows 10.0.26100.0 on x64 or arm64.
 
 ---
 
-## 🎮 Usage
+## Usage
 
 - **CTRL + W** → Zoom into the current cursor position  
 - **CTRL + Pen top button** → Zoom into the current cursor position  
@@ -41,7 +41,7 @@ Minimum requirement Windows 10.0.26100.0 on x64 or arm64.
 
 ---
 
-## 🛠️ Technology
+## Technology
 
 - Built with **Windows Presentation Foundation (WPF)**
 - Designed for Windows 11 with pen and stylus support
@@ -49,14 +49,14 @@ Minimum requirement Windows 10.0.26100.0 on x64 or arm64.
 
 ---
 
-## 📌 Notes
+## Notes
 
 - This tool is intended for presentations, demos, and quick on‑screen annotations.
 - It does not permanently modify your screen content — drawings disappear when you exit zoom mode.
 
 ---
 
-## 📄 License
+## License
 
 This project is distributed as a private binary.  
 Source code is not publicly available.
